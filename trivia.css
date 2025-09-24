@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+.triv {
+  background: white;
+  width: 90%;
+  max-width: 660px;
+  margin: 100px auto 0;
+  border-radius: 10px;
+  padding: 30px;
+}
